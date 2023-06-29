@@ -5,13 +5,11 @@ Aluno Nome Sobrenome  <oliveira.lucas2@aluno.ifsp.edu.br>  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
-- etapa 1 - xxx%
-- etapa 2 - xxx%
-- etapa 3 - xxx%
-- ...
-  Use o readme para documentar o andamento do seu projeto.
-
+- Etapa 1 - Preparar a IDE - GitPod
+- Etapa 2 - Instalação do React
+- Etapa 3 - Entendimento da estrutura de um projeto React
+- Etapa 4 - Criação dos componentes
+- Etapa 5 - Finalização do projeto e commit Git
 ## Alterações realizadas frente ao modelo de referência apresentado:
-- alteração xyz;
-- alteração xpto;
-- ...
+
+- Não realizei alterações com base no modelo de referencia.
